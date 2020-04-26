@@ -62,10 +62,14 @@
     visibility: visible;
     cursor: pointer;
   }
+    
+header {
+ width: 100%;
+}  
 
-  .header-right {
-    display: none; 
-  }
+.header-right {
+  display: none; 
+}
 
 
    
