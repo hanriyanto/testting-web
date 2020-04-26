@@ -136,15 +136,15 @@ textarea {
 }
 
 .footer-right{
-float: left;        
+float: center;        
 }
 
 .footer-center{
-float: left;
+float: center;
 
 }
 
-.fa-pinterest {
+.footer-left {
 visibility: hidden;
 display: none;    
 }    
