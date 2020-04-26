@@ -143,7 +143,11 @@ float: left;
 float: left;
 
 }
- 
+
+.footer-left{
+visibilty: hidden;
+display: none; 
+}
     
 .fa-pinterest{
 visibility: hidden;
