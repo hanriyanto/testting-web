@@ -108,10 +108,16 @@ header {
     
 }
 
+input, textarea {
+    width: 80%;
+}    
+    
 .bagian-extra2 {
     text-align: center;
 }
 
+    
+    
 .btn-kirim {
     width: 100%;
     text-align: center;
@@ -127,13 +133,12 @@ header {
 }
 
 .footer-right{
-float: left;
-    
+float: left;        
 }
 
 .footer-center{
 float: left;
-margin-right: 14%;
+
 }
     
 
