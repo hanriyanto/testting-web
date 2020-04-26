@@ -149,6 +149,10 @@ visibility: hidden;
 display: none;    
 }    
     
+.fa-pinterest{
+visibility: hidden;
+display: none; 
+}    
 
 }
 
@@ -173,7 +177,5 @@ margin: 0 auto;
     float: left;
     margin-left: 26%;
 }
-
-
 
 }
