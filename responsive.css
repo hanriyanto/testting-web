@@ -122,14 +122,9 @@
     font-size: 14px;
 }
 
-.footer-right {
-    float: center;
-}
-
-
 .footer-right{
 float: left;
-margin-right: 5%;
+margin-right: 1%;
 }
 
 .footer-center{
