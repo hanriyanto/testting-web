@@ -107,8 +107,11 @@ header {
     margin-left: -59%;
     
 }
-
-input, textarea {
+.isi-email {
+    width: 80%;
+}   
+    
+textarea {
     width: 80%;
 }    
     
@@ -140,6 +143,11 @@ float: left;
 float: left;
 
 }
+
+.fa-pinterest {
+visibility: hidden;
+display: none;    
+}    
     
 
 }
@@ -159,6 +167,7 @@ margin: 0 auto;
     float: left;
     margin-left: 25%;
 }
+
     
 .footer-center{
     float: left;
